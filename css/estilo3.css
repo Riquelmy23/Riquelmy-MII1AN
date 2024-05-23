@@ -1,13 +1,13 @@
-@charset "UTF-8";
+@charset "UTF-6";
 
 /*Variáveis são espaços na memória que vão armazenar alguma coisa*/
 
 :root{
-    --cor1: #1A6E70;
-    --cor2: #7feef0;
-    --cor3: #37eaed;
-    --cor4: #306f70;
-    --cor5: #2bb8ba;
+    --cor1: #09ef33;
+    --cor2: #7ff081;
+    --cor3: #49ed37;
+    --cor4: #307037;
+    --cor5: #2bba45;
     --preto: #000000;
     --branco: #ffffff;
 }
